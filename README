@@ -13,3 +13,5 @@ My Program can:
 My Program cannot:
 • Handle branches by assuming branch is not taken and correcting later
 • Handle branches using prediction
+
+Included: Three input samples to show the functionality of the program
